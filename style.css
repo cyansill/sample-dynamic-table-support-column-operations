@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+td {
+  text-align: center;
+}
+
+#main {
+  padding: .5rem;
+}
+
+.masked {
+  /* display: initial; */
+  position: absolute;
+  background: rgba(45, 45, 45, .5);
+  width: 100vw;
+  height: 100vh;
+}
+
+/* .gray_line {
+  background: rgba(45, 45, 45, .3);
+} */
